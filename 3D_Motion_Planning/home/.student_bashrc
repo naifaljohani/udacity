@@ -1,0 +1,2 @@
+# added by Miniconda3 installer
+export PATH="/opt/miniconda3/bin:$PATH"
